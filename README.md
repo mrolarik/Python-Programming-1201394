@@ -10,3 +10,4 @@
 | **4**   | [Search](https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-02-Search.ipynb) |
 | **5**   | [Dictionary & JSON](https://github.com/mrolarik/Python-Programming-1201394/blob/master/python_04.ipynb) |
 | **6**   | [Pandas](https://github.com/mrolarik/Python-Programming-1201394/blob/master/python_05.ipynb) |
+| **7**   | [Database](https://github.com/mrolarik/Python-Programming-1201394/blob/master/python_06.ipynb) |
