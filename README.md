@@ -20,4 +20,7 @@
 | **1**     | [Google Colab](https://www.youtube.com/watch?v=4cyYD0u8AZQ) |
 | **2**     | [การสร้างตัวแปร - Create Variable](https://www.youtube.com/watch?v=bqaFz2iHVbc)      |
 | **3** | [ประเภทของตัวแปร - Type of Variables](https://www.youtube.com/watch?v=Ohfwz89bGPQ)      |
+| **4** | [เงื่อนไข - Condition](https://www.youtube.com/watch?v=TQ7LbGKNd6o&t=7s)      |
+| **5** | [โอเปอเรเตอร์ - Operators](https://www.youtube.com/watch?v=SR8-0KZyB6A)      |
+| **6** | [If-else statement](https://www.youtube.com/watch?v=uOBdDOUOjf4)      |
 
